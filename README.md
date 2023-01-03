@@ -3,6 +3,7 @@ This project implements command-line based interactive chess game.
 Note that this chess game follows most of the rules given in the world except castling and en passant.
 
 ##User Interface:
+
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/52744133/210328876-409a756e-aaa9-4b4a-a266-e952c67fd363.png">
 
 
